@@ -13,4 +13,3 @@ const animation = function (sentence) {
   }
 
 animation("hello there from lighthouse labs!!")
-// animation("I love my boyfriend, I am going to marry him <3")
